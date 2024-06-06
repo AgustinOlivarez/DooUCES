@@ -1,8 +1,8 @@
 # Sistema de Biblioteca
 
-Alumno: Olivarez Agustin
-Materia: Diseño orientado a objetos
-Profesor: Matias Velazquez
+Alumno: Olivarez Agustin  
+Materia: Diseño orientado a objetos  
+Profesor: Matias Velazquez  
 Año: 2024
 
 
