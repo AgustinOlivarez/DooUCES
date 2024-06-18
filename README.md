@@ -6,7 +6,7 @@ Profesor: Matias Velazquez
 Año: 2024  
 
 ## Introduccion  
-Con el desarrollo de este sistema se busca la optimización y modernizacón del sistema utilizado por la Biblioteca Municipal "Luz y Saber", incluyendo las siguientes funciones dentro del sistema aparte de las existentes:  
+### Con el desarrollo de este sistema se busca la optimización y modernizacón del sistema utilizado por la Biblioteca Municipal "Luz y Saber", incluyendo las siguientes funciones dentro del sistema aparte de las existentes:  
 -Se busca que el sistema indique en que estantería física guardar el libro ingresado, evaluando su categoría u autor. También indicar si existen mas copias de este y si están bajo préstamo o no.  
 -Se busca que el sistema realice una copia digital de la credencial que se le entrega a los socios y que este informe cuando la credencial caduque, así también se registre dentro de la información de la credencial del socio todos los préstamos y devoluciones realizadas por el mismo con las fechas especificadas.  
 -Se busca que el sistema permita a los socios consultar sobre la disponibilidad de los libreos a través de una comunicación donde la base de datos de los libros esté siempre actualizada, en esta base se deberá introducir algún dato sobre el libro de interés, ya sea nombre, autor o género, así el sistema podrá brindar cuando sea necesario una o más opciones en caso de ser posible.  
