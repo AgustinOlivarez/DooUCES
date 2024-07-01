@@ -18,4 +18,8 @@ Año: 2024
 [Diagramas de secuencia](https://drive.google.com/file/d/1gKginyp8G05r9oR0ugpy74c6zRnJbH-s/view?usp=sharing)   
 [Diagramas de actividades](https://drive.google.com/file/d/1T2_uD_jDcP6EYP5JYs-8mTWDAw9bl5qV/view?usp=sharing)  
 [Diagrama de clases](https://drive.google.com/file/d/1PV_5vPepQl8HaPpxKoO0CDveGI2EdaQb/view?usp=sharing)  
-[Matriz CLAE](https://docs.google.com/spreadsheets/d/1OVYPW0TdIvn13Xc2YaFmPDSn-ZDRJIY8fNdVveivfQI/edit?usp=sharing)
+[Matriz CLAE](https://docs.google.com/spreadsheets/d/1OVYPW0TdIvn13Xc2YaFmPDSn-ZDRJIY8fNdVveivfQI/edit?usp=sharing)  
+## Resolución teórica POO
+[Documento con resolución teórica](https://docs.google.com/document/d/1z7YY8GDd751J4AuDemfCxgcXk2hg_H2UP7GV3uRZo7E/edit?usp=sharing)  
+## Correcciones implementadas
+[Documento con guía de correcciones](https://docs.google.com/document/d/15klWv0IClNKXUP1TXU5SZWFMnW8z9TdeapeL0Vg8yHA/edit?usp=sharing)
